@@ -1,2 +1,3 @@
 # Gradient-Descent
-Inner working for gradient descent
+## – Inner working of single-layer feed-forward neural network
+
